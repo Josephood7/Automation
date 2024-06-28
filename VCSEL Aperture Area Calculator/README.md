@@ -32,7 +32,8 @@
 > 6. Apply your own "pixel-to-um" ratio
 > <img width="258" alt="77777Capture" src="https://github.com/Josephood7/Automation/assets/144367420/464d16ac-395d-48fd-81a8-a78b74e9a873">
 
-
+### Reference
+Zhi-Peng, Pan & Wei, Li & Jia-Gang, Lv & Yu-Wei, Nie & Li, Zhong & Su-Ping, Liu & Xiao-Yu, Ma. (2023). Design and Fabrication of 940 nm VCSEL Single-emitter Device. Acta Physica Sinica. 72. 10.7498/aps.72.20230297. 
 
 
 
